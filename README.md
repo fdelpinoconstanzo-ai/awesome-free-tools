@@ -1,4 +1,4 @@
-# 🧰 Awesome Free Tools
+# Iniciación
 
 > Una lista curada de **herramientas 100% gratuitas** (o con plan gratis generoso) para crear, automatizar y crecer — sin gastar un peso.
 >
