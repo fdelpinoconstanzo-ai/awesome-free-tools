@@ -56,6 +56,7 @@
 | [Canva](https://www.canva.com) | Diseño rápido con plantillas | ✅ |
 | [GIMP](https://www.gimp.org) | Edición de imágenes (alternativa a Photoshop) | ✅ |
 | [Photopea](https://www.photopea.com) | Photoshop **en el navegador** | ✅ |
+| [FileOnTap](https://fileontap.com/) | **File Converter** local en el navegador: HEIC↔JPG/PNG/WebP, comprimir con preview, imagen↔PDF. Los archivos no salen del dispositivo | ✅ |
 | [Inkscape](https://inkscape.org) | Vectorial (alternativa a Illustrator) | ✅ |
 | [Excalidraw](https://excalidraw.com) | Pizarrón y diagramas a mano | ✅ |
 
